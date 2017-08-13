@@ -13,6 +13,9 @@
 ### MySQL
 - http://192.168.35.5/mysql-installer-community-5.7.13.0.msi
 
+### InfoLite
+- https://chrome.google.com/webstore/unsupported/ipjbadabbpedegielkhgpiekdlmfpgal
+
 ## Python 簡介
 
 ### Python 101 程式碼
