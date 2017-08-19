@@ -2,6 +2,7 @@
 
 ## 課程投影片
 - https://www.slideshare.net/secret/d6MT6kR8HaNYcs
+- 
 
 ## 課前須知
 ### Anaconda
@@ -14,7 +15,7 @@
 - http://192.168.35.5/mysql-installer-community-5.7.13.0.msi
 
 ### InfoLite
-- https://chrome.google.com/webstore/unsupported/ipjbadabbpedegielkhgpiekdlmfpgal
+- https://chrome.google.com/webstore/detail/infolite/ipjbadabbpedegielkhgpiekdlmfpgal
 
 ## Python 簡介
 
