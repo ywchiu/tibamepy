@@ -1,8 +1,7 @@
 # Python資料分析與機器學習實戰
 
 ## 課程投影片
-- https://www.slideshare.net/secret/d6MT6kR8HaNYcs
-- 
+- https://drive.google.com/file/d/1KhrY8jGZgGY-j7iU5_50S4gaR6M_JH2B/view?usp=sharing
 
 ## 課前須知
 ### Anaconda
