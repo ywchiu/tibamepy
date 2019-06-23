@@ -1,7 +1,7 @@
 # Python資料分析與機器學習實戰
 
 ## 課程投影片
-- https://drive.google.com/file/d/1KhrY8jGZgGY-j7iU5_50S4gaR6M_JH2B/view?usp=sharing
+- https://github.com/ywchiu/tibamepy/blob/master/slides/20190525%20Python%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90%E8%88%87%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92%E5%AF%A6%E6%88%B0.pdf
 
 ## 課前須知
 ### Anaconda
