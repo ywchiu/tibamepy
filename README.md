@@ -1,5 +1,11 @@
 # Python資料分析與機器學習實戰
 
+## 課程程式碼範例
+
+## 練習題
+- https://colab.research.google.com/github/ywchiu/tibamepy/blob/master/Practice20210529.ipynb
+
+
 
 ## 課前須知
 
