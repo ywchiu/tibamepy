@@ -8,6 +8,7 @@ https://colab.research.google.com/drive/1vSF8SemLq_ZBuQtc-AA0DMI67FKscCiV?usp=sh
 
 - 20210605
 
+https://colab.research.google.com/drive/1bG8UgtzlJzOLwzdikBuT4PlvNxHPI-yK?usp=sharing
 
 ## 練習題
 - https://colab.research.google.com/github/ywchiu/tibamepy/blob/master/Practice20210529.ipynb
