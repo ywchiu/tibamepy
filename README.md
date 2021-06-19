@@ -10,6 +10,10 @@ https://colab.research.google.com/drive/1vSF8SemLq_ZBuQtc-AA0DMI67FKscCiV?usp=sh
 
 https://colab.research.google.com/drive/1bG8UgtzlJzOLwzdikBuT4PlvNxHPI-yK?usp=sharing
 
+- 20210619
+
+https://colab.research.google.com/drive/1IKlF3Wbilq380C_8b6IcjkYTFHGx9SsC?usp=sharing
+
 ## 練習題
 - https://colab.research.google.com/github/ywchiu/tibamepy/blob/master/Practice20210529.ipynb
 - https://colab.research.google.com/github/ywchiu/tibamepy/blob/master/Practice20210605.ipynb
