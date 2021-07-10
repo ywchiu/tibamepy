@@ -22,6 +22,10 @@ https://colab.research.google.com/drive/1lMRwuKGy5g-nA6fqXDn5bsZa8TqQNTQT?usp=sh
 
 https://colab.research.google.com/drive/1tYDgcqg4iImc0YVDNprBFfECUQeI2wR2?usp=sharing
 
+- 20210710
+
+https://colab.research.google.com/drive/1so0jXhETtwXasP1Wo54f8XCnSXPAAlVG?usp=sharing
+
 
 ## 練習題
 - https://colab.research.google.com/github/ywchiu/tibamepy/blob/master/Practice20210529.ipynb
