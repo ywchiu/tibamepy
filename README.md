@@ -27,7 +27,7 @@ https://colab.research.google.com/drive/1tYDgcqg4iImc0YVDNprBFfECUQeI2wR2?usp=sh
 https://colab.research.google.com/drive/1so0jXhETtwXasP1Wo54f8XCnSXPAAlVG?usp=sharing
 
 - 20210717
-- 
+
 https://colab.research.google.com/drive/13T1G4lGn4OrhBHc1lAEQ5M2Ls8S7p7-b?usp=sharing
 
 ## 練習題
